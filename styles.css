@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #875ef8;
+    --laranja-claro: #a487f6;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -130,7 +130,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #7343cb;
+    background-color: #5b379e;
     border: none;
     font-weight: bold;
 }
